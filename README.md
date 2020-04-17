@@ -1,1 +1,2 @@
 # CheckListy
+Tutaj cos robimy
